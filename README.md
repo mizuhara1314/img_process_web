@@ -38,6 +38,5 @@ npm run serve
 
 
 
-# 5. 模板參考：
-  https://github.com/liuxiaoxiao666/Yolov5-Flask-VUE/tree/master
+
 
