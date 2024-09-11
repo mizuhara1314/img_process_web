@@ -19,6 +19,7 @@
 ```bash
 python app.py  
 ```
+使後台在port 5003運行
 
 在 VUE 前端項目下先安裝依賴(先刪除package-lock.json)：
 
